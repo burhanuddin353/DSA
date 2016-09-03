@@ -8,5 +8,5 @@
 
 import Foundation
 
-print(Algorithm.gcd(3918848, 1653264))//print(Algorithm.gcd(numbers.cha[0].toUInt64, numbers[1])
+print(Algorithm.fibonacci(n: 93))//print(Algorithm.gcd(numbers.cha[0].toUInt64, numbers[1])
 
